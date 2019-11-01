@@ -4,7 +4,7 @@
   "description": "AI chatbot based on RiveScript using Socket.IO",
   "dependencies": {
     "express": "^4.14.0",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.0",
     "request": "^2.88.0",
     "rivescript": "^1.19.0",
